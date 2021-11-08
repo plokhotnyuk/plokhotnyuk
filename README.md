@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**plokhotnyuk/plokhotnyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)
+- 🌱 I’m currently learning Scala 3 and MicroPython
+- 👯 I’m looking to collaborate on LEGO Mindstorms Robot Inventor projects
+- 🤔 I’m looking for help with Scala 3 macros
+- 💬 Ask me about JSON parsing and serialization
+- 📫 How to reach me: plokhotnyuk@gmail.com
+- ⚡ Fun facts:
 
-Here are some ideas to get you started:
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=plokhotnyuk&count_private=true&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plokhotnyuk&count_private=true&hide=jupyter%20notebook,html,javascript&layout=compact)
+
+
