@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)
 - 🌱 I’m currently learning Scala 3 and MicroPython
 - 👯 I’m looking to collaborate on LEGO Mindstorms Robot Inventor projects
-- 🤔 I’m looking for help with Scala 3 macros
+- 🤔 I’m looking for help with documentation for [jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala)
 - 💬 Ask me about JSON parsing and serialization
 - 📫 How to reach me: plokhotnyuk@gmail.com
 - ⚡ Fun facts:
